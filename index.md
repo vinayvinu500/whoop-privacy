@@ -1,5 +1,5 @@
 # Privacy Policy
-This app is a personal project built and used by [Your Name] only.
+This app is a personal project built and used by Vinay Govardhanam only.
 
 ## Data collected
 With my own authorization, the app reads my WHOOP data (profile, recovery, sleep, workouts, cycles) through the WHOOP API.
